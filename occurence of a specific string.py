@@ -1,0 +1,6 @@
+s=input("Enter a string:")
+w=input("Enter a string to count:")
+s=s.lower()
+w=w.lower()
+c=s.count(w)
+print(c)
