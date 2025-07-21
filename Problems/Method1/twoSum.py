@@ -8,4 +8,4 @@ class Solution:
                     return [i, j]
           return []
 twosum = Solution().twoSum(nums=[2, 7, 11, 15], target=9)
-print(twosum)
+print(twosum) # Output: [0, 1]
